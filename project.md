@@ -1,6 +1,6 @@
 ---
-title: Project
-description: Overview of my projects
+title: [Project]
+description: [Overview of my projects]
 ---
 
 
