@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projects
-description: Overview of my projects
+description: Overview of my projects categorized by programming language.
 ---
 
 
