@@ -1,6 +1,7 @@
 ---
 layout: default
-title: About me
+title: About
+description: About me
 ---
 
 # Short biography

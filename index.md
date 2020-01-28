@@ -7,4 +7,4 @@ Welcome to my personal website!
 
 Find more about:
 - [myself](about)
-- [my project](projects)
+- [my projects](project)
