@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Project
 description: Overview of my projects
 ---

@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Python
 description: Overview of my projects with Python
 ---
