@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to my personal website!
+**Welcome to my personal website!**
  
 
 Find more about:
