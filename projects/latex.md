@@ -1,5 +1,4 @@
 ---
-layout: default
 title: LaTeX
 description: Overview of my projects with LaTeX
 ---
